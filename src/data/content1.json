@@ -1,0 +1,118 @@
+{
+  "categories": [
+    {
+      "title": "Categories for Women",
+      "data": [
+        {
+          "title":"Sweetshirt",
+          "description":"Explore Now!",
+          "image":"./images/category-women-hoodies.jpg"
+        },
+        {
+          "title":"Shorts",
+          "description":"Explore Now!",
+          "image":"./images/category-women-shorts.jpg"
+        },
+        {
+          "title":"T-shirts",
+          "description":"Explore Now!",
+          "image":"./images/category-women-tshirts.png"
+        },
+        {
+          "title":"Coats",
+          "description":"Explore Now!",
+          "image":"./images/category-women-coats.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Categories for Men",
+      "data": [
+        {
+          "title":"Shirt",
+          "description":"Explore Now!",
+          "image":"./images/category-men-shirts.jpg"
+        },
+        {
+          "title":"Hoodie",
+          "description":"Explore Now!",
+          "image":"./images/category-men-hoodies.png"
+        },
+        {
+          "title":"Jeans",
+          "description":"Explore Now!",
+          "image":"./images/category-men-jeans.jpg"
+        },
+        {
+          "title":"T-shirt",
+          "description":"Explore Now!",
+          "image":"./images/category-men-tshirts.png"
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "items": [
+      {
+        "title": "Need Help",
+        "list": [
+          {
+            "label": "Contact us",
+            "path": "/contact-us"
+          },
+          {
+            "label": "Track order",
+            "path": "/track-order"
+          },
+          {
+            "label": "Returns and Refunds",
+            "path": "/refunds"
+          },
+          {
+            "label": "FAQ",
+            "path": "/faq"
+          },
+          {
+            "label": "Career",
+            "path": "/career"
+          }
+        ]
+      },
+      {
+        "title": "Company",
+        "list": [
+          {
+            "label": "About us",
+            "path": "/about"
+          },
+          {
+            "label": "Media",
+            "path": "/media"
+          }
+        ]
+      },
+      {
+        "title": "More Info",
+        "list": [
+          {
+            "label": "Term and condition",
+            "path": "/term-condition"
+          },
+          {
+            "label": "Privacy policy",
+            "path": "/policies"
+          },
+          {
+            "label": "Shipping policy",
+            "path": "/shipping-policies"
+          }
+        ]
+      },
+      {
+        "title": "Description",
+        "description": ""
+      }
+    ],
+    "copyright": "Copyright 2024 aefryyuu"
+  }
+}
